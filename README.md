@@ -31,11 +31,23 @@
 </p>
 
 ## 🚀 Featured Projects
-- 🛰️ **AstrasAI**  
-  AI system for monitoring glacial lakes, road networks & urban drainage using satellite imagery  
 
-- 🌐 **Portfolio Website**  
-  Personal portfolio showcasing projects, skills & journey  
+### 🛰️ AstrasAI – Space & Urban Intelligence System  
+🔗 **Repository:**  
+👉 https://github.com/Keerrthanahey/astrasAI-monitor-glacial-lakes-detect-road-networks-and-analyze-urban-drainage-systems  
+
+AI-driven system to:
+- 🧊 Monitor **glacial lakes**
+- 🛣️ Detect **road networks**
+- 🌆 Analyze **urban drainage systems**
+
+**Tech Focus:** AI/ML • Satellite Imagery • Remote Sensing • Space-Tech  
+
+### 🌐 Personal Portfolio Website  
+🔗 **Repository:**  
+👉 https://github.com/Keerrthanahey/Portfolio  
+
+A personal portfolio showcasing my projects, skills, and engineering journey.
 
 ## 📊 GitHub Stats
 <p align="center">
