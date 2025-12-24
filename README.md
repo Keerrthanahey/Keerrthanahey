@@ -4,7 +4,7 @@ Hey there, I'm Keerrthana 👋✨
 🛰️ Aspiring Space Engineer | ISRO Dreamer  
 🤖 AI • Space Tech • Automation Enthusiast  
 
-> *“Dream boldly. Build patiently. Launch fearlessly.”* 🚀  
+“Dream boldly. Build patiently. Launch fearlessly.” 🚀  
 
 👩‍💻 About Me
 Hi! I’m **Keerrthana**, an engineering student passionate about  
