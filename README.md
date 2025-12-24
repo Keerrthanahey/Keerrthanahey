@@ -1,79 +1,61 @@
-Hey there, I'm Keerrthana 👋✨  
+<h1 align="center">Hi 👋, I'm Keerrthana</h1>
+<h3 align="center">B.Tech Student | Aspiring Space Engineer | AI & Space-Tech Enthusiast 🚀</h3>
 
-🎓 B.Tech Student @ VIT Chennai  
-🛰️ Aspiring Space Engineer | ISRO Dreamer  
-🤖 AI • Space Tech • Automation Enthusiast  
+<p align="center">
+  <a href="https://github.com/Keerrthanahey">
+    <img src="https://komarev.com/ghpvc/?username=Keerrthanahey&label=Profile%20views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
-“Dream boldly. Build patiently. Launch fearlessly.” 🚀  
+## 👩‍💻 About Me
+- 🎓 Student at **VIT Chennai**
+- 🛰️ Interested in **Space Technology, Satellite Imagery & AI**
+- 🤖 Building AI-driven systems for real-world impact
+- 🎯 Goal: **ISRO | Space missions | Research**
 
-👩‍💻 About Me
-Hi! I’m **Keerrthana**, an engineering student passionate about  
-**space technology, satellite data analysis, and AI-driven systems**.
+## 🌐 Connect with Me
+<p>
+  <a href="https://github.com/Keerrthanahey"><img src="https://img.shields.io/badge/GitHub-black?logo=github"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/></a>
+</p>
 
-🌱 Learning by building real-world projects  
-🧠 Curious about AI + Earth observation + automation  
-🎯 Long-term goal: **Contribute to ISRO & impactful space missions**
+## 🧩 Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-red?logo=java"/>
+  <img src="https://img.shields.io/badge/C-blue?logo=c"/>
+  <img src="https://img.shields.io/badge/Git-black?logo=git"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-purple"/>
+  <img src="https://img.shields.io/badge/Space%20Tech-darkblue"/>
+</p>
 
-🚀 Featured Projects
+## 🚀 Featured Projects
+- 🛰️ **AstrasAI**  
+  AI system for monitoring glacial lakes, road networks & urban drainage using satellite imagery  
 
-🛰️ AstrasAI – Space & Urban Intelligence System  
-🔗 Repo: https://github.com/Keerrthanahey/astrasAI-monitor-glacial-lakes-detect-road-networks-and-analyze-urban-drainage-systems  
-Webiste - https://astrasai.netlify.app/
+- 🌐 **Portfolio Website**  
+  Personal portfolio showcasing projects, skills & journey  
 
-AI-powered system to:
-- 🧊 Monitor glacial lakes
-- 🛣️ Detect road networks
-- 🌆 Analyze urban drainage systems
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Keerrthanahey&show_icons=true&theme=radical" />
+</p>
 
-Tech Focus:
-AI/ML • Satellite imagery • Change detection • Space-tech applications  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerrthanahey&theme=radical" />
+</p>
 
-🌐 Personal Portfolio Website  
-🔗 Repo: https://github.com/Keerrthanahey/Portfolio  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerrthanahey&layout=compact&theme=radical" />
+</p>
 
-A clean and professional developer portfolio showcasing:
-- Projects  
-- Skills  
-- Achievements  
-- Career goals  
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Keerrthanahey&theme=radical&row=1" />
+</p>
 
-Built to represent my engineering + space-tech journey.
-
-🧩 Tech Stack
-
-💻 Programming Languages
-- Python  
-- Java  
-- C and C++  
-
-⚙️ Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Linux  
-- MATLAB  
-
-🧠 Domains of Interest
-- Artificial Intelligence & Machine Learning  
-- Space Technology & Remote Sensing  
-- Automation & Intelligent Systems  
-- Frontend and API
-
-## 🌱 Currently Learning
-📌 Machine Learning fundamentals  
-📌 Data Structures & Algorithms  
-📌 Satellite image processing  
-📌 Core engineering subjects  
-
-📊 GitHub Stats
-![Keerrthana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keerrthanahey&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Keerrthanahey&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Keerrthanahey&theme=tokyonight)
-
-🌐 Connect With Me
-🔗 GitHub: https://github.com/Keerrthanahey  
-🔗 Portfolio: https://github.com/Keerrthanahey/Portfolio  
+✨ *Building today for missions tomorrow.* 🚀
 
 ✨ Engineering is not just about solving problems — it’s about solving the right ones.
 Thanks for visiting my profile 💙🚀
