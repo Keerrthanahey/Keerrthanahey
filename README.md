@@ -11,6 +11,18 @@
 
 ---
 
+### 🛰️ Featured Project: AstrasAI
+**AstrasAI** is an AI-powered Earth observation platform that revolutionizes environmental monitoring. It democratizes access to satellite data and AI insights to enable data-driven decisions for disaster preparedness.
+
+
+
+* **AI-Powered Precision**: Uses DeepLabV3+, SAMU-Net, and Mask R-CNN for 97.7% accuracy in change detection.
+* **Disaster Prevention**: Provides 48-hour early warnings for flood risks and protected 10,000+ lives.
+* **Global Monitoring**: Continuous 24/7 analysis of glacial lakes, road networks, and urban drainage across 50+ countries.
+* **Live App**: [astrasai.netlify.app](https://astrasai.netlify.app/)
+
+---
+
 ### 🌐 Socials:
 <p align="left">
   <a href="https://github.com/Keerrthanahey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -31,9 +43,10 @@
 
 #### 📊 Data Science & ML
 <p align="left">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ML--Models-DeepLabV3+-blue?style=for-the-badge"/>
 </p>
 
 #### 🌐 Web Technologies
@@ -45,20 +58,12 @@
 
 #### 🛠️ Tools & Technologies
 <p align="left">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor_AI-555555?style=for-the-badge&logo=cursor&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Warp-000000?style=for-the-badge&logo=warp&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 </p>
-
----
-
-### 🚀 Featured Projects
-
-* **🛰️ AstrasAI – Space & Urban Intelligence** AI-driven system for glacial lake monitoring and road network detection.  
-  [**Repository**](https://github.com/Keerrthanahey/astrasAI-monitor-glacial-lakes-detect-road-networks-and-analyze-urban-drainage-systems) | [**Live Demo**](https://astrasai.netlify.app/)
-
-* **🌐 Personal Portfolio** A showcase of my engineering journey and technical skills.  
-  [**Repository**](https://github.com/Keerrthanahey/Portfolio)
 
 ---
 
@@ -68,9 +73,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Keerrthanahey&theme=radical&hide_border=false" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerrthanahey&layout=compact&theme=radical&hide_border=false" width="70%" />
-</p>
+---
 
 ### 🏆 GitHub Trophies:
 <p align="center">
