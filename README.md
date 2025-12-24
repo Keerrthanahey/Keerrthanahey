@@ -13,9 +13,9 @@
 
 ### 🌐 Socials:
 <p align="left">
-  <a href="https://github.com/Keerrthanahey/Portfolio"><img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://github.com/Keerrthanahey"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/n-t-keerrthana-30a819316/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:YOUR_EMAIL_HERE"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:ntkeerrthana148b@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ### 💻 Tech Stack:
@@ -33,10 +33,10 @@
 ### 🚀 Featured Projects
 
 * **🛰️ AstrasAI – Space & Urban Intelligence** AI-driven system for glacial lake monitoring and road network detection.  
-    [**Repository**](https://github.com/Keerrthanahey/astrasAI-monitor-glacial-lakes-detect-road-networks-and-analyze-urban-drainage-systems) | [**Live Demo**](https://astrasai.netlify.app/)
+  [**Repository**](https://github.com/Keerrthanahey/astrasAI-monitor-glacial-lakes-detect-road-networks-and-analyze-urban-drainage-systems) | [**Live Demo**](https://astrasai.netlify.app/)
 
 * **🌐 Personal Portfolio** A showcase of my engineering journey and technical skills.  
-    [**Repository**](https://github.com/Keerrthanahey/Portfolio)
+  [**Repository**](https://github.com/Keerrthanahey/Portfolio)
 
 ---
 
@@ -56,6 +56,11 @@
 </p>
 
 ---
+
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote" />
+</p>
 
 <p align="center">
   <i>"Engineering is not just about solving problems — it’s about solving the right ones."</i><br/>
