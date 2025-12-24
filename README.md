@@ -35,6 +35,7 @@
 ### 🛰️ AstrasAI – Space & Urban Intelligence System  
 🔗 **Repository:**  
 👉 https://github.com/Keerrthanahey/astrasAI-monitor-glacial-lakes-detect-road-networks-and-analyze-urban-drainage-systems  
+Website - https://astrasai.netlify.app/
 
 AI-driven system to:
 - 🧊 Monitor **glacial lakes**
