@@ -3,7 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/Keerrthanahey.png" width="120" style="border-radius: 50%;" alt="Profile Photo" />
+  <img src="https://github.com/Keerrthanahey.png" width="120" style="border-radius: 50%; animation: float 3s ease-in-out infinite;" alt="Profile Photo" />
+</p>
+
+<p align="center">
+  <img src="https://i.ibb.co/YBcYp6M/image-3ae1c4.png" width="100%" style="border-radius: 10px;" alt="Trust the process" />
 </p>
 
 <p align="center">
@@ -76,3 +80,11 @@
   <i>"Engineering is not just about solving problems — it’s about solving the right ones."</i><br/>
   <b>Thanks for visiting my profile 💙🚀</b>
 </p>
+
+<style>
+  @keyframes float {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-10px); }
+    100% { transform: translateY(0px); }
+  }
+</style>
