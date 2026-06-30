@@ -18,10 +18,8 @@
 
 ### 👩‍💻 Profile Summary
 - 🎓 **Mechanical Engineering** Student at **VIT Chennai**
-- ⚖️ **Evaluation Committee Member** @ **V Vortex VIT Chennai**
 - 🛰️ **ISRO Aspirant** | Focused on Satellite Imagery & Space-Tech
-- 🤖 **Developer** | App Dev, AI/ML & Competitive Programming
-- 🛠️ **Tech Stack**: Python • C • Java • C++ • JavaScript • MySQL
+- 🤖 **Full Stack Developer** | App Dev, UI/UX, Competitive Programming
 
 ---
 
