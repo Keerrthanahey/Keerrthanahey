@@ -14,7 +14,6 @@
   <img src="https://komarev.com/ghpvc/?username=Keerrthanahey&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
 </p>
 
----
 
 # 👩‍💻 About Me
 
@@ -41,9 +40,8 @@
 - Computer Vision
 - System Design
 
----
 
-# 💼 What I Do
+# 💼 Tech Stack
 
 💻 Full Stack Web Development
 
@@ -59,17 +57,12 @@
 
 🚀 Hackathon Projects
 
----
 
-# 🚀 Tech Stack
-
-## 👨‍💻 Languages
+# 👨‍💻 Languages
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,html,css"/>
 </p>
-
----
 
 ## 🎨 Frontend
 
@@ -87,8 +80,6 @@
 - Responsive Design
 - REST API Integration
 
----
-
 ## ⚙️ Backend
 
 <p align="left">
@@ -104,8 +95,6 @@
 - Authentication
 - API Integration
 
----
-
 ## 🗄️ Databases
 
 <p align="left">
@@ -114,7 +103,6 @@
 
 - MySQL
 
----
 
 ## 🤖 AI / Machine Learning
 
@@ -129,8 +117,6 @@ Also experienced with
 - Deep Learning
 - Computer Vision
 
----
-
 ## ☁️ Tools & Technologies
 
 <p align="left">
@@ -143,7 +129,6 @@ Additional Tools
 - Warp Terminal
 - Postman
 
----
 
 # 🚀 Featured Project
 
@@ -171,8 +156,6 @@ Built for satellite imagery analysis using Deep Learning.
 
 https://astrasai.netlify.app/
 
----
-
 # 🏆 Current Focus
 
 - 🚀 Bharatiya Antariksh Hackathon
@@ -181,8 +164,6 @@ https://astrasai.netlify.app/
 - 🌍 Earth Observation
 - 💻 Full Stack Development
 - ☁️ Cloud Technologies
-
----
 
 # 📈 GitHub Statistics
 
@@ -195,7 +176,6 @@ https://astrasai.netlify.app/
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keerrthanahey&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
----
 
 # 🌐 Connect With Me
 
@@ -214,8 +194,6 @@ https://astrasai.netlify.app/
 </a>
 
 </p>
-
----
 
 # 💡 Quote
 
